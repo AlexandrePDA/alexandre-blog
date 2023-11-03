@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { ModeToggle } from "@/components/Theme/toggleTheme";
+import Logo from "../../public/assets/Logo.png";
+import Image from "next/image";
 
 export function NavBar() {
   return (
@@ -7,8 +9,10 @@ export function NavBar() {
       <div className=" max-w-screen-2xl  mx-auto p-4 flex items-center justify-between">
         <Link href={"/"}>
           <div className="flex items-center gap-4">
-            <p>🧞‍♂️</p>
-            <p className="text-xl font-bold">My Blog</p>
+            <Image src={Logo} alt="logo" width={40} height={40} />
+            <p className="text-xl text-muted-foreground font-semibold hover:text-primary transition">
+              PDA Blog
+            </p>
           </div>
         </Link>
         <div className="text-xl flex items-center gap-4">

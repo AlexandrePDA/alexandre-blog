@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import getPostMetadata from "../components/getPostMetadata";
 import PostPreview from "../components/PostPreview";
 
@@ -9,12 +10,21 @@ const Home = () => {
 
   return (
     <div className="p-4 my-12">
-      <h2 className="text-center text-primary text-3xl font-bold md:text-5xl">
-        Mon blog
-      </h2>
-      <p className="mb-16 mt-4 text-center text-[#647084]">
-        Retrouve tous mes articles ici
-      </p>
+      <div className="flex flex-col gap-4 justify-center items-center">
+        <h1 className="text-center text-primary text-3xl font-bold md:text-5xl">
+          Le Point Dev d'Alexandre ⚡️
+        </h1>
+        <p className="max-w-screen-md mx-auto  m-4 text-center text-muted-foreground dark:text-white">
+          Profite d’une immersion totale dans l’univers du développement
+          informatique. <br /> De JavaScript à React en passant par les
+          dernières tendances, parcours toutes nos ressources pour améliorer ta
+          pratique et gagner en confiance.
+        </p>
+        <div className="mb-16 border border-b border-muted-foregound w-48"></div>
+      </div>
+      <div className="max-w-screen-md mx-auto text-center">
+        <h2 className="font-semibold text-xl text-primary mb-8">Articles</h2>
+      </div>
       {postPreviews}
     </div>
   );
