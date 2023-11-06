@@ -21,6 +21,17 @@ const getPostMetadata = (): PostMetadata[] => {
     };
   });
 
+  // Convert date from "dd/mm/yyyy" to a Date object.
+  const parseDate = (dateString: any) => {
+    const [day, month, year] = dateString.split("/");
+    return new Date(year, month - 1, day);
+  };
+
+  // Sort posts by date from most recent to oldest.
+  posts.sort(
+    (a, b) => parseDate(b.date).getTime() - parseDate(a.date).getTime()
+  );
+
   return posts;
 };
 

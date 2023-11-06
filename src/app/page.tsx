@@ -1,4 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
+import Ressources from "@/components/Ressources";
 import getPostMetadata from "../components/getPostMetadata";
 import PostPreview from "../components/PostPreview";
 
@@ -26,6 +27,11 @@ const Home = () => {
         <h2 className="font-semibold text-xl text-primary mb-8">Articles</h2>
       </div>
       {postPreviews}
+      <div className="mx-auto m-16 border border-b border-muted-foregound w-48"></div>
+      <div className="max-w-screen-md mx-auto text-center">
+        <h2 className="font-semibold text-xl text-primary mb-8">Ressources</h2>
+        <Ressources />
+      </div>
     </div>
   );
 };

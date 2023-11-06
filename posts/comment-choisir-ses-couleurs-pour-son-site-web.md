@@ -1,7 +1,7 @@
 ---
 title: "Comment choisir ses couleurs pour son site web?"
 subtitle: "Face à la complexité du choix: jongler entre le nombre idéal de couleurs, l'importance des contrastes, et l'impératif d'une accessibilité sans faille."
-date: "15/04/2023"
+date: "01/11/2023"
 tag: "couleurs"
 image: "/assets/comment-choisir-couleurs.png"
 ---
