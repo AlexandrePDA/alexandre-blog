@@ -18,11 +18,14 @@ export default function ressources() {
             <li>
               <a href="#terminal">Terminal</a>
             </li>
+            <li>
+              <a href="#window">Window Management</a>
+            </li>
           </ul>
         </div>
 
         <div id="couleurs">
-          <h3 className="text-red-500">🌈 Couleurs</h3>
+          <h3>🌈 Couleurs</h3>
           <ul>
             <li>
               Vérifier si les contrastes sont ok :
@@ -70,7 +73,7 @@ export default function ressources() {
         </div>
 
         <div id="terminal">
-          <h3 className="text-red-500">💻 Terminal</h3>
+          <h3>💻 Terminal</h3>
 
           <ul>
             <li>
@@ -101,6 +104,31 @@ export default function ressources() {
               href="/posts/terminal-macos-top"
             >
               Transforme ton terminal MacOs
+              <ExternalLink size={16} />
+            </a>
+          </p>
+        </div>
+
+        <div id="window">
+          <h3>🪟 Window Management</h3>
+
+          <ul>
+            <li>
+              Github Yabai :{" "}
+              <a href="https://github.com/koekeishiya/yabai.git">Yabai</a>
+            </li>
+            <li>
+              Github Skhd :{" "}
+              <a href="https://github.com/koekeishiya/skhd.git">Skhd</a>
+            </li>
+          </ul>
+          <p>
+            ⚡️ Pour aller plus loin :<br />{" "}
+            <a
+              className="flex items-center gap-2"
+              href="/posts/personnaliser-macos-avec-yabai"
+            >
+              Personnalise ton window management avec Yabai
               <ExternalLink size={16} />
             </a>
           </p>
