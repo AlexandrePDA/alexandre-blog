@@ -9,7 +9,7 @@ export function Footer() {
           <div className="mb-8 mt-8 border border-b border-muted-foregound w-48"></div>
           <div className="mb-12 grid-cols-4 grid-flow-col grid w-full max-w-[208px] gap-3">
             <Link
-              href="https://github.com/AlexandrePDA/AlexandrePDA"
+              href="https://github.com/AlexandrePDA/"
               className="mx-auto flex-col flex max-w-[24px] items-center justify-center "
             >
               <Github size={28} color="#6D2CD9" />

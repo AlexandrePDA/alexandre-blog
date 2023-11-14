@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import getPostMetadata from "../../../components/getPostMetadata";
 import Comments from "@/components/Comments";
 import Image from "next/image";
+import AboutMe from "@/components/aboutme";
 
 const getPostContent = (slug: string) => {
   const folder = "posts/";
@@ -42,6 +43,7 @@ const PostPage = (props: any) => {
         <Markdown>{post.content}</Markdown>
       </article>
       <div className="max-w-screen-3xl mt-24 md:w-1/2 mx-auto ">
+        <AboutMe />
         <Comments />
       </div>
     </div>

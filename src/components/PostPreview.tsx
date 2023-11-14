@@ -21,7 +21,9 @@ const PostPreview = (props: PostMetadata) => {
                 <p className="text-lg mb-2 font-bold text-primary">
                   {props.title}
                 </p>
-                <p className="text-sm">{props.subtitle}</p>
+                <p className="text-sm text-muted-foreground">
+                  {props.subtitle}
+                </p>
                 <div className="flex flex-col gap-2 mt-2">
                   <p className="text-muted-foreground text-sm">
                     tag: {props.tag}
