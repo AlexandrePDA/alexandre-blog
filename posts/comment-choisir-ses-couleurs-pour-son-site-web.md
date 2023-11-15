@@ -12,6 +12,8 @@ La palette de couleurs d'un site web n'est pas seulement une question d'esthéti
 - Veillez à la lisibilité
 - Des couleurs qui ressemblent à votre idée et votre projet
 
+---
+
 ## 🧠 Comprendre la psychologie des couleurs:
 
 Chaque couleur évoque une émotion ou une sensation. Le bleu peut évoquer la confiance, le rouge la passion, etc.

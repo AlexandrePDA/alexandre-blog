@@ -10,6 +10,8 @@ Tu utilises souvent le terminal sur MacOS ? Si c'est le cas, tu sais à quel poi
 
 ![terminal](/assets/terminal-to.png)
 
+---
+
 ## 🍺 Intaller HomeBrew
 
 [Homebrew](https://brew.sh/) est un gestionnaire de paquets open-source pour macOS qui simplifie l'installation de logiciels sur les systèmes Apple.

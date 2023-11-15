@@ -14,6 +14,8 @@ Dans l'article d'aujourd'hui, je vais te guider à travers les étapes de config
 
 ➡️ Toutes les ressources sont disponibles sur mon [GitHub](https://github.com/AlexandrePDA/dot-files.git).
 
+---
+
 ## 🍺 Intaller HomeBrew
 
 [Homebrew](https://brew.sh/) est un gestionnaire de paquets open-source pour macOS qui simplifie l'installation de logiciels sur les systèmes Apple.

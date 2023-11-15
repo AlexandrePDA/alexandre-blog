@@ -2,9 +2,6 @@
 import Ressources from "@/components/Ressources";
 import getPostMetadata from "../components/getPostMetadata";
 import PostPreview from "../components/PostPreview";
-import My from "../../public/assets/mypicture.png";
-import Image from "next/image";
-import Link from "next/link";
 
 const Home = () => {
   const postMetadata = getPostMetadata();
