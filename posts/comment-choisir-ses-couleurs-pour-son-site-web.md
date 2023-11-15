@@ -1,89 +1,110 @@
 ---
-title: "Comment choisir ses couleurs pour son site web?"
+title: "Comment choisir les couleurs de ton site web ?"
 subtitle: "Face à la complexité du choix: jongler entre le nombre idéal de couleurs, l'importance des contrastes, et l'impératif d'une accessibilité sans faille."
 date: "01/11/2023"
 tag: "couleurs"
 image: "/assets/comment-choisir-couleurs.png"
 ---
 
-La palette de couleurs d'un site web n'est pas seulement une question d'esthétique. Elle joue un rôle crucial dans la manière dont les visiteurs perçoivent et interagissent avec votre contenu. Choisir les bonnes couleurs est un défi en soi, car elles doivent refléter l'identité de la marque, tout en étant agréables à l'œil, en assurant un contraste approprié et en étant accessibles à tous. Voici quelques conseils pour vous guider dans ce processus délicat :
+Plus qu’une simple question d’esthétique, les couleurs d’un site permettent d’améliorer l’expérience utilisateur et participent à la conception d’une charte graphique. Choisir les bonnes couleurs peut donc être un véritable défi ! Découvre dans cet article **toutes les clés pour ne pas te tromper dans le choix de couleurs pour ton site web.**
 
-- Considérez l'émotion que vous souhaitez évoquer
-- Veillez à la lisibilité
-- Des couleurs qui ressemblent à votre idée et votre projet
+<p align="center">
+<img src="/assets/comment-choisir-couleurs.png" alt="illustration article" width="300" />
+</p>
 
 ---
 
-## 🧠 Comprendre la psychologie des couleurs:
+## 🧠 Comprends le rôle des couleurs
 
-Chaque couleur évoque une émotion ou une sensation. Le bleu peut évoquer la confiance, le rouge la passion, etc.
+Le rôle des couleurs dans un site web dépasse la question du beau. La palette que tu vas choisir a donc plusieurs objectifs :
+Refléter l'identité de ton site ou de ta marque ;
 
-### Les marques manipulent nos émotions
+- Être agréable à l'œil
+- Assurer un contraste approprié ;
+- Être accessible à tous (notamment aux personnes malvoyantes).
 
-Les marques n'ont pas laissé au hasard le choix des couleurs pour leurs logos, leurs publicités ou même l'interface de leurs sites web. Chaque teinte est soigneusement choisie pour inciter à une action, que ce soit acheter un produit, s'abonner à un service ou simplement se souvenir d'un nom. C'est un art subtil, basé sur des décennies de recherche en psychologie et en marketing. Les marques de premier plan utilisent la couleur comme un outil puissant pour influencer notre comportement en tant que consommateurs.
+## 🎨 Montre-moi tes couleurs, je te dirai qui tu es
 
-### Les couleurs influencent les conversions sur ton site
+Ne t’y trompe pas : **les marques ne laissent jamais au hasard le choix des couleurs** pour leurs logos, leurs publicités ou l'interface de leurs sites. Chaque teinte est soigneusement choisie pour inciter à une action : acheter un produit, s'abonner à un service, marquer les esprits. Cet aspect du marketing est un art subtil, basé sur des décennies de recherche. **La couleur devient alors un outil puissant** au service des entreprises pour influencer ton comportement en tant que consommateur.
 
-Adapter soigneusement la palette de couleurs de ton site peut booster les conversions. Une conversion est réalisée lorsque ton visiteur accomplit une action cible, que ce soit acheter un produit ou s'inscrire via un formulaire. La sélection judicieuse de couleurs ne se résume pas qu'à l'esthétique : elle peut véritablement orienter les choix de tes visiteurs.
+Pour choisir les couleurs de ton site, il est primordial de **réfléchir au message que tu veux renvoyer**. Chaque couleur évoque une émotion ou une sensation. Par exemple, les couleurs chaudes ont tendance à évoquer l’énergie, l’audace et l’action, alors que les tonalités froides appellent davantage au calme, à l’apaisement et à la relaxation.
 
-## ⚖️ Équilibrer esthétique et fonctionnalité:
+_Par exemple :_ Dans le feu de l’action, Tesla se la joue plutôt rouge.
+L’application Spotify choisit le vert pour symboliser la détente
 
-### Harmonie des couleurs:
+<p align="center">
+  <img src="/assets/tesla-logo.png" alt="Tesla Logo" width="200" />
+</p>
+<p align="center">
+  <img src="/assets/spotify-logo.png" alt="Tesla Logo" width="200" />
+</p>
 
-L'importance de la sélection de couleurs réside dans leur capacité à se compléter mutuellement. Lorsque deux couleurs ou plus sont harmonieusement assorties, elles créent un équilibre visuel qui est agréable à l'œil. Cet équilibre permet non seulement d'améliorer l'esthétique globale d'un design, mais aussi de faciliter la lisibilité et la compréhension du contenu. Des couleurs qui se complètent renforcent le message que vous souhaitez transmettre.
+## ⚖️ Allie l’esthétique et tes fonctionnalités
 
-### Contrastes et lisibilité:
+Avant d’arrêter ton choix, mieux vaut bien réfléchir aux couleurs que tu vas utiliser. L’important pour un développeur, c’est de toujours penser à l’accessibilité. Les teintes que tu vas choisir vont devoir se marier entre elles **pour créer un contraste agréable à l’œil**.
 
-S'assurer que le texte reste lisible quelle que soit la couleur de fond afin de permettre l'accessibilité du site web. Un contraste approprié des couleurs peut faire la différence entre un utilisateur qui interagit avec un email et un autre qui choisit de se désabonner à cause d'une expérience utilisateur décevante.
+### La conversion
+
+Quand un utilisateur visite ton site, il peut accomplir une action cible (remplir un formulaire, télécharger un livre blanc, s’inscrire, etc.). C’est ce qu’on appelle une conversion. Plus ton site va plaire à l’utilisateur, **plus il sera susceptible d’interagir ton site. Dans ce sens, les couleurs de ton site** jouent un rôle qui dépasse l’esthétique : elles peuvent véritablement orienter les choix de tes visiteurs.
+
+### L'harmonie
+
+L’important avec tes couleurs, c’est qu’elles se complètent mutuellement. Quand 2 couleurs, ou plus, se marient bien ensemble, elles créent un **équilibre qui est agréable à l’œil**. C’est ce que l’on appelle **l’harmonie visuelle**. En plus d’améliorer le design de ton site, cet équilibre facilite la lisibilité de ton contenu.
+
+### La lisibilité
+
+Tu dois aussi t’assurer que ton texte reste lisible, quelle que soit la couleur de fond de ton site. Cela permet **l'accessibilité du site web à tous les utilisateurs**. Cela t’est sûrement déjà arrivé de naviguer sur un site et que le contraste ne soit pas suffisant pour que tu puisses le visiter correctement. Et tu as sûrement écourté ta visite. Il faut savoir qu’un utilisateur reste concentré en moyenne 8 secondes sur internet. Tu as donc plutôt intérêt à capter son attention. Le contraste est ce qui peut faire la différence : entre un utilisateur qui renseigne son email, et un qui choisit de se désabonner à cause d'une expérience utilisateur décevante, il n’y a qu’un pas !
 
 ## ⚙️ Outils et plugins
 
-### Utiliser des outils en ligne pour tester l'accessibilité de votre palette.
+### Vérifie l'accessibilité de tes couleurs
 
-✅ Entre les codes hexadécimaux de tes teintes et ce site t'indiquera si le contraste est adéquat : https://contrastchecker.com/ ou https://accessibleweb.com/color-contrast-checker/
+Tu as déjà trouvé les couleurs de ton site web ?
+Voici 2 outils qui vont te permettre de vérifier l’accessibilité des couleurs que tu as choisies !
 
-✅ Si tu souhaites vérifier la conformité des couleurs de ton site web : https://wave.webaim.org/
+✅ Renseigne les codes hexadécimaux de tes couleurs et ce site t'indiquera si le contraste est convenable :
+https://contrastchecker.com/ ou https://accessibleweb.com/color-contrast-checker/
 
-> 💡 Tips : En matière d'accessibilité, il est également essentiel de considérer des éléments tels que les attributs "alt" pour les images, en plus de la sélection des couleurs.
+✅ Teste l’harmonie visuelle des couleurs de ton site web : https://wave.webaim.org/
 
-### Des palettes sur-mesure
+### Conçois ta palette de couleurs
 
-Il y a des sites web spécialisés qui utilisent toute leur expertise en matière de palettes de couleurs pour te proposer des sélections de teintes harmonieuses qui respectent toutes les normes d'accessibilité et d'équilibre. Pour chaque composant de ton site, tu pourras choisir les couleurs qui conviennent le mieux.
+- Radix
+  Complet et bien pensé, ce site te donne un vrai cours d'UI/UX, axé sur les couleurs. Pour chaque élément de ton site (cartes, boutons, bordures, etc.), il te guide vers des couleurs qui s'harmonisent parfaitement entre elles, et ça, même en dark mode ! https://www.radix-ui.com/colors
 
-- Complet et bien pensé, ce site te fournira un véritable cours d'UI/UX axé sur les couleurs. Pour chaque élément de ton site (cartes, boutons, bordures, etc.), il te guidera vers des couleurs qui s'harmonisent parfaitement entre elles même en dark mode : https://www.radix-ui.com/colors
+- Shadcn/ui
+  Ce site offre un générateur de couleurs, avec tous les composants directement intégrés. Sélectionne ta teinte, ton radius, et il génère pour toi un fichier CSS contenant toutes les couleurs qui s'accordent parfaitement à la tienne ! https://ui.shadcn.com/themes
 
-- Si tu optes pour shadcn/ui, ils offrent un générateur de couleurs intégré avec tous leurs composants. Sélectionne simplement la teinte et ton radius, et il générera pour toi un fichier CSS contenant toutes les couleurs qui s'accordent parfaitement : https://ui.shadcn.com/themes
+- Ui Colors
+  Ce site génère des palettes de couleurs adaptées pour ton site web. Tu peux profiter de ce service en récupérant simplement les valeurs associées à chaque couleur. Bonus : il te génère automatiquement la configuration adaptée pour TailwindCSS ! https://uicolors.app/create
 
-- Idéal si tu utilises TailwindCSS, ce site génère des palettes de couleurs adaptées pour ton site web. Même sans Tailwind, tu peux bénéficier de ce service en récupérant simplement les valeurs associées à chaque couleur : https://uicolors.app/create
+### Inspire-toi (mais sans copier !)
 
-### S'inspirer sans copier.
+- Pantone, la référence couleur
+  Découvre les couleurs en vogue et les nuances les plus populaires. De nombreux sites web te proposent de découvrir les teintes phares du moment, comme Pantone, la référence en la matière. https://www.pantone.com/eu/fr/color-of-the-year/2023
 
-✅ Tendances actuelles :
-Jette un œil aux couleurs en vogue et aux nuances populaires. De nombreux sites web te proposent de découvrir les teintes phares du moment : https://www.pantone.com/eu/fr/color-of-the-year/2023
+- Behance, pour voir l’actu des sites web
+  Trouve l’inspiration en explorant les sites exposés pour observer les tendances et voir les connaître l’actualité des couleurs. Tu peux regarder du côté des designers UI/UX pour observer les teintes qu'ils privilégient en fonction de leurs projets.
+  https://www.behance.net/
 
-✅ Analyser ce que font les autres :
-Explore les sites web pour observer les tendances actuelles et voir quelles couleurs sont privilégiées afin de t'en inspirer. Suis des designers UI/UX pour observer les teintes qu'ils privilégient en fonction des projets : https://www.behance.net/
-
-## Conclusion:
-
-Choisir les couleurs de son site web est un exercice qui mêle psychologie, esthétique et technicité. En gardant à l'esprit les besoins et les perceptions de tes utilisateurs, et en t'armant des bons outils et connaissances, tu seras en mesure de créer une palette qui non seulement représente fidèlement ta marque, mais qui offre aussi une expérience utilisateur optimale 🚀
+Si cela peut paraître simple, **choisir les couleurs de son site web est tout un art** ! Mêlant psychologie, esthétique et technicité, les couleurs de ton site doivent refléter ton identité, tout en favorisant l’accessibilité et les conversions. À présent, **tu as toutes les clés en main pour créer une palette de couleurs qui te correspond et qui offre une expérience optimale à tes utilisateurs !** 🚀
 
 ---
 
 ## 🚨 FAQ
 
-### Pourquoi la palette de couleurs d'un site web est-elle importante ?
+**Pourquoi la palette de couleurs d'un site web est-elle importante ?**
 
-La palette de couleurs ne sert pas uniquement à l'esthétique d'un site web. Elle influence la perception et l'interaction des visiteurs avec le contenu. Les couleurs doivent refléter l'identité de la marque, être agréables à l'œil, assurer un contraste approprié et être accessibles à tous.
+Les couleurs influencent la perception des visiteurs avec un contenu. Les couleurs doivent refléter l'identité de la marque, être agréables à l'œil, assurer un contraste approprié et être accessibles à tous.
 
-### Comment les couleurs peuvent-elles influencer les actions des visiteurs ?
+**Comment les couleurs influencent-elles les actions des utilisateurs ?**
 
-Les couleurs évoquent différentes émotions et sensations. Par exemple, le bleu peut inspirer la confiance, tandis que le rouge symbolise la passion. Les marques choisissent soigneusement leurs couleurs pour encourager des actions spécifiques, que ce soit l'achat d'un produit ou l'abonnement à un service. Une palette de couleurs bien adaptée peut augmenter les conversions sur un site.
+Les couleurs évoquent différentes émotions. Par exemple, le bleu peut inspirer la confiance, tandis que le rouge symbolise la passion. Une palette de couleurs bien adaptée peut augmenter les conversions sur un site.
 
-### Quels sont les éléments clés à considérer pour équilibrer esthétique et fonctionnalité dans le choix des couleurs ?
+**Quels sont les éléments clés à considérer pour équilibrer esthétique et fonctionnalité dans le choix des couleurs ?**
 
-L'harmonie des couleurs est essentielle. Les couleurs doivent se compléter pour créer un équilibre visuel. Il est également crucial de s'assurer que le texte reste lisible quelle que soit la couleur de fond, garantissant ainsi l'accessibilité du site web. Un contraste approprié est nécessaire pour une expérience utilisateur optimale.
+L’équilibre des couleurs est essentiel : les couleurs doivent se compléter pour créer une harmonie visuelle. Le texte doit être lisible, et le contraste proportionné, quelle que soit la couleur de fond, pour garantir l'accessibilité du site web.
 
-### Où puis-je trouver des outils et des ressources pour m'aider dans le choix des couleurs ?
+**Où puis-je trouver des outils et des ressources pour m'aider dans le choix des couleurs ?**
 
-Plusieurs outils en ligne permettent de tester l'accessibilité de votre palette, comme https://contrastchecker.com ou https://wave.webaim.org. Des sites web spécialisés proposent des palettes sur-mesure adaptées à chaque composant de votre site. Pour s'inspirer sans copier, on peut explorer les tendances actuelles et suivre des designers UI/UX sur des plateformes comme Behance, X ou Instagram.
+Plusieurs outils en ligne permettent de tester l'accessibilité de votre palette, comme https://contrastchecker.com ou https://wave.webaim.org. Des sites web spécialisés proposent des palettes sur-mesure adaptées à chaque composant de votre site. Pour s'inspirer sans copier, tu peux suivre les dernières tendances UI/UX sur des plateformes comme Behance, X ou Instagram.

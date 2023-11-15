@@ -3,7 +3,6 @@ import Markdown from "markdown-to-jsx";
 import matter from "gray-matter";
 import getPostMetadata from "../../../components/getPostMetadata";
 import Comments from "@/components/Comments";
-import Image from "next/image";
 import AboutMe from "@/components/aboutme";
 
 const getPostContent = (slug: string) => {
@@ -30,13 +29,7 @@ const PostPage = (props: any) => {
         <p className="text-muted-foreground text-xs my-2">{post.data.date}</p>
         <h1 className="text-3xl text-primary font-bold">{post.data.title}</h1>
         <p className="text-muted-foreground mt-2">#{post.data.tag}</p>
-        <Image
-          src={post.data.image}
-          alt="image illustrant l'article"
-          width={400}
-          height={400}
-          className="w-48 h-48 m-4"
-        />
+
         <div className="mb-8 mt-8 border border-b border-muted-foregound w-72"></div>
       </div>
       <article className=" max-w-screen-3xl mx-auto prose dark:prose-white prose-black">

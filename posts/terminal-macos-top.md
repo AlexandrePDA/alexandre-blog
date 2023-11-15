@@ -6,7 +6,18 @@ tag: "terminal"
 image: "/assets/terminal-macos-top.png"
 ---
 
-Tu utilises souvent le terminal sur MacOS ? Si c'est le cas, tu sais à quel point son apparence par défaut peut être basique. Pourtant, il est tout à fait possible de le personnaliser pour qu'il reflète davantage ton style et tes préférences. Dans cet article, nous allons découvrir comment donner un nouveau look à ton terminal en utilisant iTerm2 et OhMyZsh. Ces outils te permettront de rendre ton terminal non seulement esthétiquement agréable, mais aussi plus fonctionnel. Alors, si tu es prêt(e) à donner un coup de jeune à ton environnement de travail, poursuis ta lecture pour passer de ça à ça :
+<p align="center">
+<img src="/assets/terminal-macos-top.png" alt="illustration article" width="300" />
+</p>
+
+Tu utilises souvent le **terminal sur MacOS** ?
+
+Si c'est le cas, tu sais à quel point son apparence par défaut peut être basique, voire carrément moche. Et ce n’est pas forcément agréable quand on travaille dessus toute la journée. Pourtant, il est tout à fait possible de personnaliser ton terminal pour qu'il suive tes préférences et reflète ton style. Découvre dès maintenant **comment donner un nouveau look à ton terminal MacOs !**
+
+### Le avant/après ✨
+
+Prêt à donner un coup de neuf à ton environnement de travail ?
+Continue ta lecture pour passer de ça à ça :
 
 ![terminal](/assets/terminal-to.png)
 
@@ -80,6 +91,8 @@ p10k configure
 
 ## 🎨 Modifie les couleurs du thème
 
+À présent, il est temps de colorer ton terminal ! Pour que cela reste agréable à l'œil, tu peux découvrir mes conseils pour [choisir les couleurs de ton site web.](https://alexandre-blog.vercel.app/posts/comment-choisir-ses-couleurs-pour-son-site-web/)
+
 1. Pour le thème présent en introduction run cette commande :
 
 ```bash
@@ -96,4 +109,7 @@ Pour d'autres couleurs : https://iterm2colorschemes.com/
 
 4. Sélectionne **import** dans le menu déroulant et récupère le fichier télécharger
 
-🥳 Voilà, tu as un terminal **coloré** qui te **ressemble** !
+---
+
+Tu sais maintenant comment personnaliser ton terminal sur MacOs. 🥳
+Ton imagination est ta seule limite, alors n’hésite pas à laisser libre cours à tes envies ! Et pour aller plus loin sur le chemin de la personnalisation, découvre comment [transformer ton window management avec Yabai](https://alexandre-blog.vercel.app/posts/personnaliser-macos-avec-yabai) !
