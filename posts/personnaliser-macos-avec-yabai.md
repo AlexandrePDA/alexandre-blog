@@ -14,6 +14,10 @@ Dans l'article d'aujourd'hui, je vais te guider à travers les étapes de config
 
 ➡️ Toutes les ressources sont disponibles sur mon [GitHub](https://github.com/AlexandrePDA/dot-files.git).
 
+<p align="center">
+<img src="/assets/yabai.png" alt="illustration article" width="300" />
+</p>
+
 ---
 
 ## 🍺 Intaller HomeBrew

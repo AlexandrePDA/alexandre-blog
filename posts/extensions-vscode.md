@@ -10,6 +10,10 @@ Dans le domaine du développement, optimiser son temps est crucial. C'est là qu
 
 Travaillant principalement avec des stacks tels que ReactJS, TypeScript, NextJS, Prisma ou encore Tailwind, mes choix d'extensions et configurations sont fortement influencés par ces technologies. Dans cet article, je vais te présenter une sélection d'extensions VSCode qui peuvent véritablement améliorer ta productivité, spécialement si tu travailles avec ces technologies. Que tu cherches à mieux organiser ton code, à accélérer la saisie, ou simplement à rendre l'environnement de développement plus agréable, ces extensions pourraient bien être la réponse. Allons ensemble à la découverte de ces outils qui pourraient changer ta façon de travailler au quotidien.
 
+<p align="center">
+<img src="/assets/extensions-vscode.png" alt="illustration article" width="300" />
+</p>
+
 ---
 
 ## 🧩 Extensions

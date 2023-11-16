@@ -93,18 +93,18 @@ Si cela peut paraître simple, **choisir les couleurs de son site web est tout u
 
 ## 🚨 FAQ
 
-**Pourquoi la palette de couleurs d'un site web est-elle importante ?**
+### 🤔 Pourquoi la palette de couleurs d'un site web est-elle importante ?
 
 Les couleurs influencent la perception des visiteurs avec un contenu. Les couleurs doivent refléter l'identité de la marque, être agréables à l'œil, assurer un contraste approprié et être accessibles à tous.
 
-**Comment les couleurs influencent-elles les actions des utilisateurs ?**
+### 🤔 Comment les couleurs influencent-elles les actions des utilisateurs ?
 
 Les couleurs évoquent différentes émotions. Par exemple, le bleu peut inspirer la confiance, tandis que le rouge symbolise la passion. Une palette de couleurs bien adaptée peut augmenter les conversions sur un site.
 
-**Quels sont les éléments clés à considérer pour équilibrer esthétique et fonctionnalité dans le choix des couleurs ?**
+### 🤔 Quels sont les éléments clés à considérer pour équilibrer esthétique et fonctionnalité dans le choix des couleurs ?
 
 L’équilibre des couleurs est essentiel : les couleurs doivent se compléter pour créer une harmonie visuelle. Le texte doit être lisible, et le contraste proportionné, quelle que soit la couleur de fond, pour garantir l'accessibilité du site web.
 
-**Où puis-je trouver des outils et des ressources pour m'aider dans le choix des couleurs ?**
+### 🤔 Où puis-je trouver des outils et des ressources pour m'aider dans le choix des couleurs ?
 
 Plusieurs outils en ligne permettent de tester l'accessibilité de votre palette, comme https://contrastchecker.com ou https://wave.webaim.org. Des sites web spécialisés proposent des palettes sur-mesure adaptées à chaque composant de votre site. Pour s'inspirer sans copier, tu peux suivre les dernières tendances UI/UX sur des plateformes comme Behance, X ou Instagram.
