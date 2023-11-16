@@ -2,7 +2,7 @@
 title: "Docker : ton guide complet pour débuter"
 subtitle: "Explore l'univers de Docker : comprends les concepts de base, les images, les conteneurs, et maîtrise les fichiers Dockerfile et Docker Compose"
 date: "16/11/2023"
-tag: "docker"
+tags: ["docker", "guide"]
 image: "/assets/docker.png"
 ---
 

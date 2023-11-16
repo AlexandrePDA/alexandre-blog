@@ -11,11 +11,18 @@ const getPostMetadata = (): PostMetadata[] => {
   const posts = markdownPosts.map((fileName) => {
     const fileContents = fs.readFileSync(`posts/${fileName}`, "utf8");
     const matterResult = matter(fileContents);
+
+    // Ensure tags are always treated as an array.
+    let tags = matterResult.data.tags;
+    if (!Array.isArray(tags)) {
+      tags = [tags]; // Convert single tag to an array
+    }
+
     return {
       title: matterResult.data.title,
       date: matterResult.data.date,
       subtitle: matterResult.data.subtitle,
-      tag: matterResult.data.tag,
+      tags,
       slug: fileName.replace(".md", ""),
       image: matterResult.data.image,
     };

@@ -22,16 +22,22 @@ export const generateStaticParams = async () => {
 
 const PostPage = (props: any) => {
   const slug = props.params.slug;
-  console.log(slug);
   const post = getPostContent(slug);
   return (
     <div className=" p-4 ">
       <div className="my-12 text-center flex flex-col items-center justify-center">
         <p className="text-muted-foreground text-xs my-2">{post.data.date}</p>
         <h1 className="text-3xl text-primary font-bold">{post.data.title}</h1>
-        <p className="text-slate-800 p-2 rounded-lg bg-purple-300 mt-4">
-          {post.data.tag}
-        </p>
+        <div className="flex gap-2 my-4 flex-wrap">
+          {post.data.tags.map((tag: string) => (
+            <p
+              key={tag}
+              className="text-slate-800 p-2 rounded-lg text-xs bg-purple-300 m-1 inline-block"
+            >
+              {tag}
+            </p>
+          ))}
+        </div>
 
         <div className="mb-8 mt-8 border border-b border-muted-foregound w-72"></div>
       </div>

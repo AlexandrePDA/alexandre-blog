@@ -2,7 +2,7 @@
 title: "Personnalise ton window management avec Yabai"
 subtitle: "Découvre Yabai : le guide ultime pour configurer ton gestionnaire de fenêtres sur macOS et booster ta productivité !"
 date: "09/11/2023"
-tag: "macOs"
+tags: ["macos", "configuration", "productivité"]
 image: "/assets/yabai.png"
 ---
 

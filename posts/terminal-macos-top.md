@@ -2,7 +2,7 @@
 title: "Transforme ton terminal MacOs"
 subtitle: "Modernise ton terminal fade en une interface colorée et fonctionnelle qui te ressemble avec iTerm2 et OhMyZsh"
 date: "06/11/2023"
-tag: "terminal"
+tags: ["terminal", "MacOs", "productivité"]
 image: "/assets/terminal-macos-top.png"
 ---
 
