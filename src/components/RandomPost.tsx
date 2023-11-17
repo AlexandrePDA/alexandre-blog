@@ -103,7 +103,7 @@ const RandomPosts: React.FC<RandomPostsProps> = ({ currentPostHref }) => {
       </h3>
       <div className="flex  gap-4 flex-col lg:flex-row ">
         {randomPosts.map((post: Post, index: number) => (
-          <Link key={index} href={`/posts/${post.href}`}>
+          <Link key={index} href={`${post.href}`}>
             <div className="flex flex-col p-2 border-border border rounded-lg hover:bg-purple-100 dark:hover:bg-gray-900 items-center mb-4 text-center  sm:text-left">
               <Image
                 src={post.img}
