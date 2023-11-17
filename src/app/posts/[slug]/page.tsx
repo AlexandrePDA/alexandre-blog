@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import getPostMetadata from "../../../components/getPostMetadata";
 import Comments from "@/components/Comments";
 import AboutMe from "@/components/aboutme";
+import RandomPosts from "@/components/RandomPost";
 
 const getPostContent = (slug: string) => {
   const folder = "posts/";
@@ -23,6 +24,7 @@ export const generateStaticParams = async () => {
 const PostPage = (props: any) => {
   const slug = props.params.slug;
   const post = getPostContent(slug);
+
   return (
     <div className=" p-4 ">
       <div className="my-12 text-center flex flex-col items-center justify-center">
@@ -47,6 +49,10 @@ const PostPage = (props: any) => {
       <div className="max-w-screen-3xl mt-24 md:w-1/2 mx-auto ">
         <AboutMe />
         <Comments />
+      </div>
+
+      <div className="max-w-screen-3xl mt-24 md:w-1/2 mx-auto ">
+        <RandomPosts currentPostHref={`/posts/${slug}`} />
       </div>
     </div>
   );

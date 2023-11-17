@@ -24,9 +24,12 @@ export default function ressources() {
             <li>
               <a href="#docker">Docker</a>
             </li>
+            <li>
+              <a href="#apps">Apps</a>
+            </li>
           </ul>
         </div>
-
+        <div className="mb-8 mt-8 border border-b border-muted-foregound w-full"></div>
         <div id="couleurs">
           <h3>🌈 Couleurs</h3>
           <ul>
@@ -74,7 +77,7 @@ export default function ressources() {
             </a>
           </p>
         </div>
-
+        <div className="mb-8 mt-8 border border-b border-muted-foregound w-full"></div>
         <div id="terminal">
           <h3>💻 Terminal</h3>
 
@@ -111,7 +114,7 @@ export default function ressources() {
             </a>
           </p>
         </div>
-
+        <div className="mb-8 mt-8 border border-b border-muted-foregound w-full"></div>
         <div id="window">
           <h3>🪟 Window Management</h3>
 
@@ -136,7 +139,7 @@ export default function ressources() {
             </a>
           </p>
         </div>
-
+        <div className="mb-8 mt-8 border border-b border-muted-foregound w-full"></div>
         <div id="docker">
           <h3>🐳 Docker</h3>
 
@@ -157,7 +160,38 @@ export default function ressources() {
               className="flex items-center gap-2"
               href="/posts/debuter-avec-docker"
             >
-              Personnalise ton window management avec Yabai
+              Docker, ton guide complet pour débuter
+              <ExternalLink size={16} />
+            </a>
+          </p>
+        </div>
+        <div className="mb-8 mt-8 border border-b border-muted-foregound w-full"></div>
+        <div id="apps">
+          <h3>🧩 Apps</h3>
+
+          <ul>
+            <li>
+              <a href="https://arc.net">Arc</a>, le navigateur magique
+            </li>
+            <li>
+              <a href="https://raycast.com/">Raycast</a>, le puissant launcher
+              MacOs
+            </li>
+            <li>
+              <a href="https://excalidraw.com/">Excalidraw</a>, le pinceau
+              numérique
+            </li>
+            <li>
+              <a href="https://trello.com/">Trello</a>
+            </li>
+          </ul>
+          <p>
+            ⚡️ Pour aller plus loin :<br />{" "}
+            <a
+              className="flex items-center gap-2"
+              href="/posts/mon-secret-pour-etre-plus-productif"
+            >
+              Mon secret pour booster ta productivité
               <ExternalLink size={16} />
             </a>
           </p>
