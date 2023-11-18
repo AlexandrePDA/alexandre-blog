@@ -142,7 +142,7 @@ export function Footer() {
             >
               Alexandre
             </Link>{" "}
-            🎉
+            🎉 !
           </p>
           <p className="text-muted-foreground max-[479px]:text-sm">
             © Copyright 2023. All rights reserved.
