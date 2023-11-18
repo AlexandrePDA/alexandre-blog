@@ -66,9 +66,8 @@ const Newsletter = () => {
 
   return (
     <div className="bg-gradient-to-b from-primary to-purple-300 dark:to-purple-900 max-w-screen-md w-full my-12 flex gap-4 items-center flex-col rounded-md px-4 py-8 text-white ">
-      <h2 className="text-2xl text-center">
-        Inscris-toi à la <span className="underline">Newsletter</span> pour ne
-        rien manquer 💌
+      <h2 className="text-2xl text-center text-bold">
+        Inscris-toi à la Newsletter pour ne rien manquer 💌
       </h2>
       <h4 className="text-center">
         Chaque lundi, commence la semaine avec une veille de l'actu tech !
@@ -105,7 +104,7 @@ const Newsletter = () => {
         <FormMessage>{form.formState.errors.email?.message}</FormMessage>
       </Form>
       {isDone && <p>À lundi ! 🥳</p>}
-      <p className="text-xs text-muted-foreground">
+      <p className="text-xs text-center text-muted-foreground">
         🔒 Ton email sera uniquement utilisé pour t'envoyer la newsletter
       </p>
       <Toaster position="bottom-center" reverseOrder={false} />
