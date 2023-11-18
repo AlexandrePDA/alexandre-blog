@@ -72,7 +72,7 @@ C'est genial pour les **brainstormings** et les **sessions de travail**. Tu peux
 
 C'est un outil **gratuit** et disponible [ici](https://excalidraw.com/).
 
-## 💎 Trello, l'outil de gestion de tes projet
+## 💎 Trello, l'outil de gestion de tes projets
 
 Trello est un outil de **gestion de projet**. Il te permet de créer des **tableaux** et des **cartes** pour organiser tes tâches.
 
