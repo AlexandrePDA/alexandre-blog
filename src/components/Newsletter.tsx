@@ -94,7 +94,7 @@ const Newsletter = () => {
             </Button>
           ) : (
             <Button
-              className="md:ml-2 hover:bg-white dark:text-white text-primary bg-white dark:bg-[#040712] animate-pulse active:bg-white"
+              className="md:ml-2  hover:bg-white dark:text-white text-primary bg-white dark:bg-[#040712] animate-pulse active:bg-white"
               type="submit"
             >
               Je rejoins

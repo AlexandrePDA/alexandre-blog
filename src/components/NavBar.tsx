@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export function NavBar() {
   return (
-    <div className="w-full sticky bg-background top-0 ">
+    <div className="w-full sticky bg-background z-10 top-0 ">
       <div className=" max-w-screen-2xl  mx-auto p-4 flex items-center justify-between">
         <Link href={"/"}>
           <div className="flex items-center gap-4">
