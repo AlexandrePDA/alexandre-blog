@@ -3,6 +3,7 @@ import Ressources from "@/components/Ressources";
 import getPostMetadata from "../components/getPostMetadata";
 import PostPreview from "../components/PostPreview";
 import Newsletter from "@/components/Newsletter";
+import { CheckCircle2 } from "lucide-react";
 
 const Home = () => {
   const postMetadata = getPostMetadata();
@@ -16,6 +17,20 @@ const Home = () => {
         <h1 className="text-center text-primary text-3xl font-bold md:text-5xl">
           Le Point Dev d'Alexandre ⚡️
         </h1>
+        <div className="flex flex-col md:flex-row gap-4 flex-wrap text-muted-foreground mt-8">
+          <div className="flex  items-center gap-2 ">
+            <CheckCircle2 color="#51EF6C" />
+            <p>2 articles par semaine</p>
+          </div>
+          <div className="flex items-center gap-2">
+            <CheckCircle2 color="#51EF6C" />
+            <p>Une newsletter tous les lundis</p>
+          </div>
+          <div className="flex items-center gap-2">
+            <CheckCircle2 color="#51EF6C" />
+            <p>Des ressources illimitées</p>
+          </div>
+        </div>
 
         <Newsletter />
 
