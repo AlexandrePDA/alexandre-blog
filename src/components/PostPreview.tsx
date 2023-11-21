@@ -21,7 +21,7 @@ const PostPreview = (props: PostMetadata & { index: number }) => {
           <div>
             <Link
               href={`/posts/${props.slug}`}
-              className="flex flex-col gap-4 rounded-md bg-[#f2f2f7] dark:bg-[#040712] p-4 xs:w-80 mb-3 sm:mb-0  border hover:bg-purple-100 dark:hover:bg-gray-900"
+              className="flex flex-col gap-4 rounded-md bg-white dark:bg-[#040712] p-4 xs:w-80 mb-3 sm:mb-0  border hover:bg-purple-100 dark:hover:bg-gray-900"
             >
               <div className="relative">
                 <Image
