@@ -8,7 +8,7 @@ const PostPreview = () => {
       <div className="mx-auto w-full max-w-7xl ">
         <div className="mx-auto  max-w-3xl">
           <Link href="/ressources">
-            <div className="flex flex-col border-border border rounded-lg hover:bg-purple-100 dark:hover:bg-gray-900 items-center mb-4 text-center sm:flex-row sm:text-left">
+            <div className="flex flex-col border-border border rounded-lg hover:bg-purple-100 dark:hover:bg-gray-900 items-center  text-center sm:flex-row sm:text-left">
               <Image
                 src={Ressources}
                 alt="image pour section ressources"
