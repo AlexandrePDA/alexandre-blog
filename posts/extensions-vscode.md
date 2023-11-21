@@ -2,8 +2,9 @@
 title: "Booste ta productivité avec ces extensions VSCode !"
 subtitle: "Découvre les meilleures extensions VSCode pour maximiser ton efficacité et révolutionner ton expérience de codage !"
 date: "14/11/2023"
-tags: ["vscode", "configuration"]
+tags: ["vscode", "config"]
 image: "/assets/extensions-vscode.png"
+emoji: "🚀"
 ---
 
 Dans le domaine du développement, optimiser son temps est crucial. C'est là que Visual Studio Code, avec ses nombreuses extensions, entre en jeu. Si tu utilises déjà cet éditeur de code populaire, tu sais probablement qu'il peut être personnalisé pour répondre à presque tous tes besoins. Mais avec tant d'options disponibles, il peut être difficile de savoir par où commencer.

@@ -1,9 +1,10 @@
 ---
 title: "Docker : ton guide complet pour débuter"
-subtitle: "Explore l'univers de Docker : comprends les concepts de base, les images, les conteneurs, et maîtrise les fichiers Dockerfile et Docker Compose"
+subtitle: "Comprends les concepts de base, les images, les conteneurs, et maîtrise les fichiers Dockerfile et Docker Compose"
 date: "16/11/2023"
 tags: ["docker", "guide"]
 image: "/assets/docker.png"
+emoji: "🐳"
 ---
 
 Tu entends souvent parler de **Docker** 🐳 dans le monde du développement ?

@@ -1,9 +1,10 @@
 ---
 title: "Comment choisir les couleurs de ton site web ?"
-subtitle: "Face à la complexité du choix: jongler entre le nombre idéal de couleurs, l'importance des contrastes, et l'impératif d'une accessibilité sans faille."
+subtitle: "Jongler entre le nombre idéal de couleurs, l'importance des contrastes, et l'impératif d'une accessibilité sans faille."
 date: "01/11/2023"
 tags: ["couleurs", "design"]
 image: "/assets/comment-choisir-couleurs.png"
+emoji: "🎨"
 ---
 
 Plus qu’une simple question d’esthétique, les couleurs d’un site permettent d’améliorer l’expérience utilisateur et participent à la conception d’une charte graphique. Choisir les bonnes couleurs peut donc être un véritable défi ! Découvre dans cet article **toutes les clés pour ne pas te tromper dans le choix de couleurs pour ton site web.**

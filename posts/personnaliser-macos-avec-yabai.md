@@ -2,8 +2,9 @@
 title: "Personnalise ton window management avec Yabai"
 subtitle: "Découvre Yabai : le guide ultime pour configurer ton gestionnaire de fenêtres sur macOS et booster ta productivité !"
 date: "09/11/2023"
-tags: ["macos", "configuration", "productivité"]
+tags: ["macos", "config"]
 image: "/assets/yabai.png"
+emoji: "💻"
 ---
 
 Si tu es un utilisateur de macOS et que tu cherches à optimiser ton espace de travail numérique, tu as sans doute déjà ressenti les limites de la gestion des fenêtres native du système. Mais que dirais-tu si je te disais qu'il existe un outil capable de transformer cette expérience de manière spectaculaire ? C'est ici qu'intervient Yabai, un gestionnaire de fenêtres puissant et hautement personnalisable qui te permet de maîtriser ton espace comme jamais !

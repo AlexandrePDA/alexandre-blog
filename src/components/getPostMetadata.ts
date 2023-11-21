@@ -25,6 +25,7 @@ const getPostMetadata = (): PostMetadata[] => {
       tags,
       slug: fileName.replace(".md", ""),
       image: matterResult.data.image,
+      emoji: matterResult.data.emoji,
     };
   });
 

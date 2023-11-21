@@ -7,14 +7,14 @@ import { CheckCircle2 } from "lucide-react";
 
 const Home = () => {
   const postMetadata = getPostMetadata();
-  const postPreviews = postMetadata.map((post) => (
-    <PostPreview key={post.slug} {...post} />
-  ));
+  const postPreviews = postMetadata.map((post, index) => {
+    return <PostPreview key={index} index={index} {...post} />;
+  });
 
   return (
     <div className="p-4 my-12">
       <div className="flex flex-col gap-4 justify-center items-center">
-        <h1 className="text-center text-primary text-3xl font-bold md:text-5xl">
+        <h1 className="text-center text-primary text-4xl font-bold md:text-6xl">
           Le Point Dev d'Alexandre ⚡️
         </h1>
         <div className="flex flex-col md:flex-row gap-4 flex-wrap text-muted-foreground mt-8">
@@ -24,11 +24,11 @@ const Home = () => {
           </div>
           <div className="flex items-center gap-2">
             <CheckCircle2 color="#51EF6C" />
-            <p>Une newsletter tous les lundis</p>
+            <p>1 newsletter tous les lundis</p>
           </div>
           <div className="flex items-center gap-2">
             <CheckCircle2 color="#51EF6C" />
-            <p>Des ressources illimitées</p>
+            <p>+ des ressources illimitées</p>
           </div>
         </div>
 
@@ -50,9 +50,13 @@ const Home = () => {
         <div className="mb-16 border border-b border-muted-foregound w-48"></div>
       </div>
       <div className="max-w-screen-md mx-auto text-center">
-        <h2 className="font-semibold text-2xl text-primary mb-8">Articles</h2>
+        <h2 className="text-center text-3xl font-bold md:text-5xl text-primary mb-8">
+          Tous les articles 📝
+        </h2>
       </div>
-      {postPreviews}
+      <div className="items-center justify-center flex flex-col md:flex-row flex-wrap max-w-screen-xl mx-auto">
+        {postPreviews}
+      </div>
       <div className="mx-auto m-16 border border-b border-muted-foregound w-48"></div>
       <div className="max-w-screen-md mx-auto text-center">
         <h2 className="font-semibold text-2xl text-primary mb-8">Ressources</h2>

@@ -5,4 +5,5 @@ export interface PostMetadata {
   tags: string[];
   slug: string;
   image: string;
+  emoji: string;
 }

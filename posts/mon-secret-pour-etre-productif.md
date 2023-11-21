@@ -1,9 +1,10 @@
 ---
 title: "Mon secret pour booster ta productivité !"
-subtitle: "Entre dans mon univers et découvre comment des outils simples transforment ma routine de travail."
+subtitle: "Que faire ? Quoi choisir ? Entre dans mon univers et découvre comment des outils simples transforment ma routine de travail."
 date: "17/11/2023"
 tags: ["productivité", "app"]
 image: "/assets/productivite.png"
+emoji: "🚀"
 ---
 
 Tu cherches constamment des moyens pour **améliorer ta productivité** ?
