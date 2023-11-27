@@ -61,7 +61,7 @@ export function Footer() {
   }
 
   return (
-    <footer className="block mt-12">
+    <footer className="relative block mt-12">
       <div className=" py-8 mx-auto w-full max-w-7xl px-5 md:px-10">
         <div className="flex-col flex items-center">
           <div className="mb-8 mt-8 border border-b border-muted-foregound w-48"></div>
@@ -149,6 +149,13 @@ export function Footer() {
           </p>
         </div>
       </div>
+      <div
+        className="absolute inset-44 max-w-md mx-auto h-40 blur-[110px] "
+        style={{
+          background:
+            "linear-gradient(152.92deg, rgba(192, 132, 252, 0.2) 4.54%, rgba(232, 121, 249, 0.26) 34.2%, rgba(192, 132, 252, 0.1) 77.55%)",
+        }}
+      ></div>
     </footer>
   );
 }

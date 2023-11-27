@@ -81,7 +81,7 @@ const RandomPosts: React.FC<RandomPostsProps> = ({ currentPostHref }) => {
       title: "AdonisJs : Bien démarrer avec le framework NodeJS",
       subtitle:
         "AdonisJs est un framework NodeJS qui permet de créer des applications web et des API RESTful. Il est basé sur le pattern MVC.",
-      href: "/posts/adonisjs-bien-demarrer",
+      href: "/posts/bien-demarrer-avec-adonisjs",
       date: "22/11/2023",
       tags: ["adonisjs", "backend"],
       img: "/assets/adonisjs.png",
@@ -106,7 +106,7 @@ const RandomPosts: React.FC<RandomPostsProps> = ({ currentPostHref }) => {
   }, [currentPostHref]);
 
   return (
-    <div className="flex gap-4 flex-wrap flex-col ">
+    <div className="flex gap-4 flex-wrap flex-col">
       <h3 className="text-center text-3xl mb-8 font-bold text-primary">
         Ça peut aussi t'intéresser ⚡️
       </h3>

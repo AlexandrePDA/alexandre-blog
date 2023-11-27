@@ -26,15 +26,8 @@ const PostPage = (props: any) => {
   const post = getPostContent(slug);
 
   return (
-    <div className="relative p-4 ">
-      <div
-        className="absolute inset-0 w-full h-full opacity-30"
-        style={{
-          background:
-            "linear-gradient(137.92deg, rgba(192, 132, 252, 0) 20.43%, rgba(232, 121, 249, 0.26) 49.66%, rgba(204, 171, 238, 0) 92.38%)",
-        }}
-      ></div>
-      <div className="my-12 text-center flex flex-col items-center justify-center">
+    <div className=" p-4 ">
+      <div className=" my-12 text-center flex flex-col items-center justify-center">
         <p className="text-muted-foreground text-xs my-2">{post.data.date}</p>
         <h1 className="text-3xl text-primary font-bold">{post.data.title}</h1>
         <div className="flex gap-2 my-4 flex-wrap">
