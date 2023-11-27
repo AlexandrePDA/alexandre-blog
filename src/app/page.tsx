@@ -13,8 +13,15 @@ const Home = () => {
   });
 
   return (
-    <div className="p-4 my-12 relative">
-      <div className="flex flex-col gap-4 justify-center items-center">
+    <div className="p-4 my-12 ">
+      <div className="relative flex flex-col gap-4 justify-center items-center">
+        <div
+          className="absolute inset-24 max-w-md mx-auto h-80 blur-[110px] "
+          style={{
+            background:
+              "linear-gradient(152.92deg, rgba(192, 132, 252, 0.2) 4.54%, rgba(232, 121, 249, 0.26) 34.2%, rgba(192, 132, 252, 0.1) 77.55%)",
+          }}
+        ></div>
         <h1 className="text-center text-primary text-4xl font-bold md:text-6xl">
           Le Point Dev d'Alexandre ⚡️
         </h1>
