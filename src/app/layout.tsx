@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/Theme/theme-provider";
 import { NavBar } from "@/components/NavBar";
 import { Footer } from "@/components/Footer";
 import { Analytics } from "@vercel/analytics/react";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -60,6 +61,16 @@ export default function RootLayout({
         />
         <meta name="twitter:image" content="/assets/Logo.png" />
       </head>
+      <Script
+        async
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.GOOGLE_ANALYTICS}`}
+      ></Script>
+      <Script id="ga-script">
+        {`window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '${process.env.GOOGLE_ANALYTICS}');`}
+      </Script>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"

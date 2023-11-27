@@ -7,11 +7,12 @@ image: "/assets/yabai.png"
 emoji: "💻"
 ---
 
-Si tu es un utilisateur de macOS et que tu cherches à optimiser ton espace de travail numérique, tu as sans doute déjà ressenti les limites de la gestion des fenêtres native du système. Mais que dirais-tu si je te disais qu'il existe un outil capable de transformer cette expérience de manière spectaculaire ? C'est ici qu'intervient Yabai, un gestionnaire de fenêtres puissant et hautement personnalisable qui te permet de maîtriser ton espace comme jamais !
+Si tu utilises macOS, tu as sûrement remarqué que la gestion des fenêtres native du système est limitée. Mais comment faire pour **optimiser ton espace de travail numérique et le rendre plus efficient** ?
 
-Yabai organise automatiquement tes fenêtres en les ajustant côte à côte, sans chevauchement, maximisant ainsi chaque pixel de ton écran ce qui rend le multitâche non seulement plus efficace, mais aussi plus agréable.
+Pour cela, je te présente **Yabai**, un gestionnaire de fenêtres, à la fois puissant et personnalisable, qui te permet de maîtriser ton espace comme jamais ! Grâce à lui, organise automatiquement tes fenêtres en les **ajustant**, sans chevauchement, et maximise ainsi chaque pixel de ton écran. Tu augmentes alors la lisibilité de toutes tes données.
 
-Dans l'article d'aujourd'hui, je vais te guider à travers les étapes de configuration de base et te montrer comment personnaliser les réglages pour qu'ils correspondent parfaitement à ton flux de travail. Que tu sois développeur, designer, ou simplement un passionné de productivité, prépare-toi à découvrir comment Yabai peut te faire passer au niveau supérieur de l'organisation de bureau sur macOS 🎉
+Dans cet article, je vais te présenter les étapes de configurations de base pour que tu puisses personnaliser ton flux de travail.
+Développeur, designer, ou passionné de productivité : prépare-toi à passer au niveau supérieur de l'organisation de bureau sur macOS avec **Yabai** 🎉
 
 ➡️ Toutes les ressources sont disponibles sur mon [GitHub](https://github.com/AlexandrePDA/dot-files.git).
 
